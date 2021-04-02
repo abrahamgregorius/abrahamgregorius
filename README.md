@@ -1,5 +1,5 @@
 # <h1 align="center">Hello There. You saw my name.</h1>
-<h3 align="center">Front-End Developer, translator from Indonesia, Administrator & Co-Founder at DDX</h3>
+<h3 align="center">Some front-end and back-end languages, learning databases. Made few contributions.</h3>
 
 
 - 🇮🇩 Proud Indonesian Code Writer
