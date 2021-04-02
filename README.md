@@ -1,4 +1,4 @@
-# <h1 align="center">Hello There. You saw my name.</h1>
+# <h1 align="center">Hello there. You saw my name.</h1>
 <h3 align="center">Some front-end and back-end languages, learning databases. Made few contributions.</h3>
 
 
