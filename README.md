@@ -1,7 +1,5 @@
-<h3>i am</h3>
-- a student <br>
-- indonesian <br>
-- a once <br>
+<h3>i am a software engineerin student based in Jakarta. i write code :D</h3>
+
 
 
 <h3 align="left">various ways to reach me:</h3>
