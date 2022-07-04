@@ -8,6 +8,10 @@
   <br/>
   <br/>
 
+<div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start;">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abrahamgregorius&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abrahamgregorius&layout=compact&langs_count=8&theme=algolia"/>
+</div>
 
 <h3 align="left">various ways to reach me:</h3>
 <a href="https://instagram.com/grgsxx" target="blank">
