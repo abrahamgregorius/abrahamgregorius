@@ -1,10 +1,10 @@
-<h3>i am a software engineering student based in Jakarta.</h3>
-<!--
+<h3>a software engineering student based in Jakarta</h3>
+
 <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start;">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abrahamgregorius&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abrahamgregorius&layout=compact&langs_count=8&theme=algolia"/>
 </div>
--->
+
 
 <h5 align="left">various ways to reach me:</h5>
 <a href="https://instagram.com/grgsxx" target="_blank">
